@@ -28,11 +28,12 @@
  
 
 ######		喵喵客
+
+>喵喵客(miaomiaobank.com)是广群金融旗下独立品牌，于2015年2月上线。致力于搭建一个高效、透明、安全的智能化互联网理财产品交易平台，目前累计用户近30万。
+
 ![](miaomiaoban.gif)
 
 [链接](https://itunes.apple.com/cn/app/miao-miao-ke-tou-zi-li-cai/id977918033?mt=8)
-
->喵喵客(miaomiaobank.com)是广群金融旗下独立品牌，于2015年2月上线。致力于搭建一个高效、透明、安全的智能化互联网理财产品交易平台，目前累计用户近30万。
 
 *	简介：
 	* 	[喵喵客](http://www.miaomiaobank.com/)的iOS版本

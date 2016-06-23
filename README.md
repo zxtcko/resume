@@ -13,7 +13,7 @@
 
 #项目技术细节
 ######	  互惠中国
-![](互惠之家2.1.0 拷贝.png =300x)
+![](互惠之家2.1.0 拷贝.png)
 
 *  简介：
 	*  [中冶集团的p2p理财平台](http://www.huhuizg.com/)，iOS端的开发   
@@ -24,7 +24,7 @@
 *   三方库：AFNetworking, SDWebImage, ProgressHUD, ShareSDK
 
 ######	  美容院
-![](beautycare.png =300x)
+![](beautycare.png)
 
 *	简介：越南的外包项目
 	*	美容院预约系统，后台集成现有的.Net后台进行接口封装
@@ -48,17 +48,17 @@
 *	三方库：SDWebImage, AFNetworking, MJRefresh
 
 #其他开源项目和个人作品
-+ ###[美术馆](https://github.com/zxtcko/artMuseum)
++ [美术馆](https://github.com/zxtcko/artMuseum)
 
-![](http://i.imgur.com/g9oeX3j.gif)
+![](https://github.com/zxtcko/artMuseum/blob/master/artmuseum.gif)
 
-+ ###[CustomEcho](https://github.com/zxtcko/customEcho)
++ [CustomEcho](https://github.com/zxtcko/customEcho)
 
 ![](https://github.com/zxtcko/customEcho/blob/master/preview/customEchoDemo.gif)
 
-+ ###[TripTree](http://www.chriscoder.me/ionic/TripTree/www/index.html)
++ [TripTree](http://www.chriscoder.me/ionic/TripTree/www/index.html)
 
-![](http://i.imgur.com/JWZndAr.gif) 
+![](triptreedemo.gif) 
 
 
 #理想团队

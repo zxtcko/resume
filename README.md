@@ -1,15 +1,15 @@
 #个人简介
+*   多个原生iOS开发经验，领域包括P2P平台，O2O，商城，音乐，功能包括IM，支付，分享，三方登陆。熟练使用Objective-C和Swift，掌握常用开发模式，对Http，Socket通讯有充分的了解，熟练解析JSON、XML等主流交互数据格式。
 *   985，211高校，工科背景，2年技术开发经验，一年后端，一年前端。
-*   有较强的自学能力，乐于尝试新技术。
 *   纯理性思维者，爱弹吉他。
 
 #技术经历
 *   框架：MVC, MVVC
-*   布局：AutoLayout, SizeClass
+*   布局：AutoLayout, SizeClass, Interface Builder
 *   数据：CodeData, Realm, XML, JSON解析
 *   传值；Delegate, block, KVO, 单例, 属性
 *	线程：GCD, NSOperationQueue
-*	自定义控件：xib, storyboard可视化编程
+*	其他：Git，Cocoapods
 
 #项目技术细节
 ######	  互惠中国
@@ -21,7 +21,10 @@
 *  简介：
 	*  [中冶集团的p2p理财平台](http://www.huhuizg.com/)，iOS端的开发   
 	*  通过转盘进入不同的tab，排行榜是通过UITableView展示的商品列表，理财课堂进入在线视频流播放，最		新活动进入UIWebView相对应的网页，收益列表显示账户的投资收益
-
+*   职责：
+	*	负责私人理财，收益之星，互惠众筹模块
+	*	对AFNetWorking进行封装，整理常用工具库，包括时间戳，加密算法
+	*	把IPA文件上传到蒲公英进行分发
 *   语言：Objective-C
 *   功能：理财商城，订单，三方登陆、分享，支付
 *   三方库：AFNetworking, SDWebImage, ProgressHUD, ShareSDK
@@ -38,6 +41,10 @@
 *	简介：
 	* 	[喵喵客](http://www.miaomiaobank.com/)的iOS版本
 	*	自定义手势实现Tab的转换，JS端通过WKWebView的代理方法进行交互调用Native的分享页面，通过UIPageViewController实现同一页面多个UITableView的切换和数据加载，使用连连支付的接口实现移动支付
+*   职责：
+	*	负责首页，理财，个人中心模块
+	*	封装CircleView实现旋转进度条的效果，封装UIPageView实现多栏展示，加载，更新数据的效果
+	*	对接连连支付，完成快捷支付
 *	语言：Swift, Objective-C
 *	功能：商品展示，支付，分享，手机验证，排序
 *	三方库：SDWebImage, AFNetworking, MJRefresh
@@ -49,6 +56,9 @@
 	*	美容院预约系统，后台集成现有的.Net后台进行接口封装
 	*	主要有3个功能，建立预约，取消预约，预约历史
 	*	最大的困难是语言的Localization，iOS前端的好配置，最大的挑战是后端集成，现有的http协议显示乱码，中途尝试过用.Net直接socket通讯，最终解决
+*	职责
+	*	负责项目整体的UI界面，架构设计，功能，网络通讯
+	*	因为是越南的app，国内的手机短信提供商无法满足，寻找国际版的手机验证方案
 *   语言: Swift
 *   功能：建立、查看、取消预约，fabric手机验证
 *   三方库：Fabric, Alamofire, ObjectMapper, ActionSheetPicker, Refresher

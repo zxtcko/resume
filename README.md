@@ -13,6 +13,9 @@
 
 #项目技术细节
 ######	  互惠中国
+
+>中冶惠（上海）互联网金融信息服务股份有限公司，品牌名互惠中国，是中冶国福（上海）控股有限公司旗下的专业互联网金融信息服务平台，成立于2015年，注册资本1亿人民币，总部位于上海市静安区。
+
 ![](互惠之家2.1.0 拷贝.png)
 
 *  简介：
@@ -22,17 +25,6 @@
 *   语言：Objective-C
 *   功能：理财商城，订单，三方登陆、分享，支付
 *   三方库：AFNetworking, SDWebImage, ProgressHUD, ShareSDK
-
-######	  美容院
-![](beautycare.png)
-
-*	简介：越南的外包项目
-	*	美容院预约系统，后台集成现有的.Net后台进行接口封装
-	*	主要有3个功能，建立预约，取消预约，预约历史
-	*	最大的困难是语言的Localization，iOS前端的好配置，后端集成很麻烦，现有的http协议显示乱码，中途尝试过用.Net直接socket通讯，最终解决
-*   语言: Swift
-*   功能：建立、查看、取消预约，fabric手机验证
-*   三方库：Fabric, Alamofire, ObjectMapper, ActionSheetPicker, Refresher
  
 
 ######		喵喵客
@@ -40,12 +32,26 @@
 
 [链接](https://itunes.apple.com/cn/app/miao-miao-ke-tou-zi-li-cai/id977918033?mt=8)
 
+>喵喵客(miaomiaobank.com)是广群金融旗下独立品牌，于2015年2月上线。致力于搭建一个高效、透明、安全的智能化互联网理财产品交易平台，目前累计用户近30万。
+
 *	简介：
 	* 	[喵喵客](http://www.miaomiaobank.com/)的iOS版本
 	*	自定义手势实现Tab的转换，JS端通过WKWebView的代理方法进行交互调用Native的分享页面，通过UIPageViewController实现同一页面多个UITableView的切换和数据加载，使用连连支付的接口实现移动支付
 *	语言：Swift, Objective-C
 *	功能：商品展示，支付，分享，手机验证，排序
 *	三方库：SDWebImage, AFNetworking, MJRefresh
+
+######	  美容院
+![](beautycare.png)
+
+*	简介：越南的外包项目
+	*	美容院预约系统，后台集成现有的.Net后台进行接口封装
+	*	主要有3个功能，建立预约，取消预约，预约历史
+	*	最大的困难是语言的Localization，iOS前端的好配置，最大的挑战是后端集成，现有的http协议显示乱码，中途尝试过用.Net直接socket通讯，最终解决
+*   语言: Swift
+*   功能：建立、查看、取消预约，fabric手机验证
+*   三方库：Fabric, Alamofire, ObjectMapper, ActionSheetPicker, Refresher
+
 
 #其他开源项目和个人作品
 + [美术馆](https://github.com/zxtcko/artMuseum)

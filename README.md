@@ -12,7 +12,8 @@
 *	其他：Git，Cocoapods
 
 #项目技术细节
-######	  互惠中国
+
+##	  互惠中国
 
 >中冶惠（上海）互联网金融信息服务股份有限公司，品牌名互惠中国，是中冶国福（上海）控股有限公司旗下的专业互联网金融信息服务平台，成立于2015年，注册资本1亿人民币，总部位于上海市静安区。
 
@@ -30,7 +31,7 @@
 *   三方库：AFNetworking, SDWebImage, ProgressHUD, ShareSDK
  
 
-######		喵喵客
+##		喵喵客
 
 >喵喵客(miaomiaobank.com)是广群金融旗下独立品牌，于2015年2月上线。致力于搭建一个高效、透明、安全的智能化互联网理财产品交易平台，目前累计用户近30万。
 
@@ -49,10 +50,13 @@
 *	功能：商品展示，支付，分享，手机验证，排序
 *	三方库：SDWebImage, AFNetworking, MJRefresh
 
-######	  美容院
+
+##	  美容院
+>越南PlaSoftWate的外包项目
+
 ![](beautycare.png)
 
-*	简介：越南的外包项目
+*	简介：
 	*	美容院预约系统，后台集成现有的.Net后台进行接口封装
 	*	主要有3个功能，建立预约，取消预约，预约历史
 	*	最大的困难是语言的Localization，iOS前端的好配置，最大的挑战是后端集成，现有的http协议显示乱码，中途尝试过用.Net直接socket通讯，最终解决
@@ -65,15 +69,15 @@
 
 
 #其他开源项目和个人作品
-+ [美术馆](https://github.com/zxtcko/artMuseum)
+## [美术馆](https://github.com/zxtcko/artMuseum)
 
 ![](https://github.com/zxtcko/artMuseum/blob/master/artmuseum.gif)
 
-+ [CustomEcho](https://github.com/zxtcko/customEcho)
+## [CustomEcho](https://github.com/zxtcko/customEcho)
 
 ![](https://github.com/zxtcko/customEcho/blob/master/preview/customEchoDemo.gif)
 
-+ [TripTree](http://www.chriscoder.me/ionic/TripTree/www/index.html)
+## [TripTree](http://www.chriscoder.me/ionic/TripTree/www/index.html)
 
 ![](triptreedemo.gif) 
 

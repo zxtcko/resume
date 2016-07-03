@@ -5,10 +5,10 @@
 
 #技术经历
 *   框架：MVC, MVVC
-*   布局：AutoLayout, SizeClass, Interface Builder
-*   数据：CodeData, Realm, XML, JSON解析
+*   布局：AutoLayout, SizeClass, Interface Builder, Mansory
+*   数据：Realm
 *   传值；Delegate, block, KVO, 单例, 属性
-*	线程：GCD, NSOperationQueue
+*	线程：GCD
 *	其他：Git，Cocoapods
 
 #项目技术细节

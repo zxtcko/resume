@@ -4,10 +4,12 @@
 *   纯理性思维者，爱弹吉他。
 
 #技术经历
-*   框架：MVC, MVVC
+*   框架：MVC, MVVC, MVP
 *   布局：AutoLayout, SizeClass, Interface Builder, Mansory
-*   数据：Realm
+*   数据库：Realm
 *   传值；Delegate, block, KVO, 单例, 属性
+*   混编：UIWebView与JS端的交互，WKWebView与JS端的交互
+*   Instrument：内存泄露，Apple Script自动化测试
 *	线程：GCD
 *	其他：Git，Cocoapods
 

@@ -1,5 +1,6 @@
 #个人简介
 *   多款Native iOS App和Hybrid App，一款Web App开发经验。领域包括P2P平台，O2O，商城，音乐。功能包括IM，支付，分享，三方登陆，流媒体。熟练使用Objective-C和Swift。掌握常用开发模式，对HTTP，HTTPS网络通讯有充分的了解和应用，熟练解析JSON、XML等主流交互数据格式。能够使用Apple Script进行自动化测试，使用Instrument主要功能对App进行性能优化。熟悉App主流分析工具，包括Fabric，Google Analytics，友盟。
+*   负责APP分发测试，上线运营。日活上千，累计用户十几万。
 *   985，211高校，工科和金融复合背景，2年技术开发经验，一年后端，一年前端。
 *   纯理性思维者，爱弹吉他。
 
